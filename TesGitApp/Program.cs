@@ -6,7 +6,7 @@ namespace TesGitApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Ahoj svete!");
+            Console.WriteLine("Ahoj svete!!");
         }
     }
 }
